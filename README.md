@@ -14,7 +14,7 @@ it should look something like this
 
 alternatively you can install it trough "Hook, Line, & Sinker" mod manager by selecting "import ZIP" in "3rd Party Mods" tab
 in this case download HLSdick.zip from releases
-#GALLERY
+# GALLERY
 ![1](https://github.com/Kris123454/WEBFISHING-DICK/blob/main/pictures/1.png?raw=true "1")
 
 ![2](https://github.com/Kris123454/WEBFISHING-DICK/blob/main/pictures/2.png?raw=true "2")
