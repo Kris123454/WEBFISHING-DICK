@@ -7,8 +7,8 @@ a mod that adds dick to your webfishing character
 -unpack zip to (your game folder)\GDWeave\mods
 it should look something like this
 - (your game folder)\GDWeave\mods\museum
- - manifest.json
- - museum.pck
+  - manifest.json
+  - museum.pck
 
 **and done!**
 
