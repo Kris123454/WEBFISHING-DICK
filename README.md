@@ -2,7 +2,9 @@
 a mod that adds dick to your webfishing character
 # INSTALLATION:
 -install mod loader https://github.com/NotNite/GDWeave/tree/main
+
 -install lure https://github.com/Sulayre/WebfishingLure
+
 -download dick.zip from releases
 -unpack zip to (your game folder)\GDWeave\mods
 it should look something like this
